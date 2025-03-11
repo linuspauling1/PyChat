@@ -1,0 +1,5 @@
+opamp + ASIC design & validation =» teste pre/post siliciu (PVT) + laytout
+risc-v =» cyber + debug
+prj life quality improvement
+fire...sth cloud EU for free(?)
+presentations Lux
